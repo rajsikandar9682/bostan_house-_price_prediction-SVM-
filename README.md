@@ -1,10 +1,10 @@
-** Boston House Price Prediction using SVM
+# Boston House Price Prediction using SVM
 
 This project uses Support Vector Regression (SVR) — a type of Support Vector Machine (SVM) algorithm — to predict house prices based on various features in the Boston Housing Dataset.
 To improve the model’s accuracy and performance, feature scaling is applied using StandardScaler.
 
 
-Project Overview
+# # Project Overview
 
 The goal of this project is to build a Machine Learning model that can predict housing prices in the Boston area based on input features like:
 
